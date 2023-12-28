@@ -1,0 +1,16 @@
+/* components/HomePage.css */
+.home-page {
+  background-size: 50%;
+  background-color: black;
+   height: 80vh; /* Set the height to 100% of the viewport height */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ .text-container {
+   background-color: rgba(39, 38, 38, 0.7); /* Add a semi-transparent background color */
+   padding: 20px;
+   text-align: center;
+ }
+ /* Add any additional styles as needed */
+ 
