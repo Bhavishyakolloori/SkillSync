@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
+
+
+
+
+.naxits{
+    display: inline;
+    padding-left: 200px;
+   
+}
+
+.confld{
+    padding: 10px;
+    padding-right: 150px;
+}
+
+
+.navnav{
+    padding: 15px;
+    background-color:#98bdd2;
+}
+.personal,.proff{
+    padding-right:3px;
+}
+.coding{
+    padding-right: 5px;
+}

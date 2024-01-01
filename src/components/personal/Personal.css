@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Rubik+Puddles&display=swap');
+
+.main{
+    display: flex;
+    margin-left: 300px;
+}
+.add-user{
+    font-family: 'Barlow Condensed', sans-serif;
+    margin-left: 100px;
+}
+
+.p1{
+    text-align: center;
+}
+
+.l1{
+    margin-top: 20px;
+}
+
+.col{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 28px;
+}
+.l2{
+    margin-left: 150px;
+    
+}
+.f2{
+    width: 200px;
+    height: 25px;
+    margin-left: 10px;
+    border-radius: 3px;
+    border: none;
+    background-color:#e5e5e5;
+}
+
+
+.f3{
+    width: 600px;
+    height: 25px;
+    margin-left: 35px;
+    border-radius: 3px;
+    border: none;
+    background-color:#e5e5e5;
+}
+
+.f1{
+    width: 600px;
+    height: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+    border: none;
+    background-color:#e5e5e5;
+}
+.p2{
+    margin-left: -30px;
+}
+.profile-image{
+    height: 250px;
+    margin-left: -120px;
+}
+.main1{
+    display: flex;
+}
+.main2{
+    margin-left: 0px;
+    margin-top: 25px;
+    background-color:#f5ccc8;
+}
+.m1{
+    text-align: center;
+}
+.f4{
+    width: 200px;
+    height: 25px;
+    margin-left: 10px;
+    border-radius: 3px; 
+    border:none;
+    background-color:#e5e5e5;
+}
+.p4{
+    display: flex;
+    margin-left: 300px;
+}
+.f5{
+    width: 200px;
+    height: 25px;
+    margin-left: 10px;
+    border-radius: 3px;
+    border: none;
+    background-color:#e5e5e5;
+}
+.x{
+    position: relative;
+    display: inline-block;
+  }
+  
+.icon {
+    position: absolute;
+    top: 50%;
+    left: 15px; /* Adjust left position as needed */
+    transform: translateY(-50%);
+    color: #555; /* Adjust the color as needed */
+}
+.p3{
+    display: flex;
+}
+.f6,.f7{
+    width: 500px;
+    height: 25px;
+    margin-left: 10px;
+    border-radius: 3px; 
+    border: none;
+    background-color:#e5e5e5;
+}
+.p5{
+    display: flex;
+    margin-left: 35px;
+}
+.p6{
+    display: flex;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.la1,.la2{
+    margin-left: -10px;
+}
+.x1{
+    position: relative;
+    display: inline-block;
+    margin-left: 15px;
+}
+.x2{
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+}
+/* .btn{
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    background-color: white; 
+    border-radius: 10px;
+} */
+.main4{
+    display: flex;
+    padding-left: -100px;
+}
+.h1{
+    margin-top: -23px;
+}
+.k19{
+    margin-left: 950px;
+}
